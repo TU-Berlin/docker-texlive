@@ -102,4 +102,5 @@ RUN tlmgr update --self &&\
     adjustbox \
     collectbox \
     eurosym \
+    setspace \
     jknapltx
