@@ -103,4 +103,5 @@ RUN tlmgr update --self &&\
     collectbox \
     eurosym \
     setspace \
-    jknapltx
+    jknapltx \
+    koma-script
