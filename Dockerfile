@@ -106,4 +106,4 @@ RUN tlmgr update --self &&\
     jknapltx \
     koma-script \
     endnotes \
-    urw
+    txfonts
