@@ -104,4 +104,5 @@ RUN tlmgr update --self &&\
     eurosym \
     setspace \
     jknapltx \
-    koma-script
+    koma-script \
+    endnotes
