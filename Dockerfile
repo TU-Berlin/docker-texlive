@@ -105,4 +105,5 @@ RUN tlmgr update --self &&\
     setspace \
     jknapltx \
     koma-script \
-    endnotes
+    endnotes \
+    urw-base35
